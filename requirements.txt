@@ -7,3 +7,4 @@ flask-jwt-extended
 # Used to hash the passwords -  Make unreadable
 passlib
 flask-migrate
+gunicorn
